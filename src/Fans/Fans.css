@@ -1,0 +1,37 @@
+.formulario{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/musicbbr-96019.appspot.com/o/plan%20b2.jpg?alt=media&token=65aeed69-b15e-48fb-ab64-cd50e51b83ad');
+    padding: 10%;
+    padding-top: 20%;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    position:relative;
+}
+.login-form{
+    -webkit-box-shadow: 0px 0px 39px 9px rgba(0,0,0,0.74);
+    -moz-box-shadow: 0px 0px 39px 9px rgba(0,0,0,0.74);
+    box-shadow: 0px 0px 39px 9px rgba(0,0,0,0.74);
+
+
+
+    text-align: center;
+    padding: 5%;
+    width: 28%;
+    margin: 0 auto;
+    background-color: #1c1c1d;
+    color: aliceblue;
+}
+
+label{
+    font-size: 20px;
+    margin: 1%;
+}
+.formfan{
+    padding: 5%;
+}
+.ask{
+    padding: 2%;
+}
+.bnn{
+    margin: 7%;
+}
